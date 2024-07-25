@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hezkytech/static/css/main.7714a0ee.css",
+    "main.css": "/hezkytech/static/css/main.6a4a16a0.css",
     "main.js": "/hezkytech/static/js/main.521f49fc.js",
     "static/media/image.jpg": "/hezkytech/static/media/image.421e3a1280c8219ecb7a.jpg",
     "index.html": "/hezkytech/index.html",
-    "main.7714a0ee.css.map": "/hezkytech/static/css/main.7714a0ee.css.map",
+    "main.6a4a16a0.css.map": "/hezkytech/static/css/main.6a4a16a0.css.map",
     "main.521f49fc.js.map": "/hezkytech/static/js/main.521f49fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7714a0ee.css",
+    "static/css/main.6a4a16a0.css",
     "static/js/main.521f49fc.js"
   ]
 }
