@@ -61,3 +61,35 @@ p{
   font-weight: 500;
   background: rgb(32, 31, 31);
 }
+
+@media (max-width: 768px){
+
+
+  .App-logo {
+    max-height: 30vh !important;
+    object-fit: contain;
+    margin-top: 8rem;
+    margin-bottom: 6rem;
+  }
+
+  p {
+    letter-spacing: 1px;
+    font-size: 12px;
+  }
+
+  .login-input {
+    width: 90%;
+    height: 30px;
+    font-size: small;
+  }
+
+  .input-box{
+    padding: 12px;
+  }
+
+  .btn {
+    height: 40px;
+    padding: 6px 20px;
+    letter-spacing: 1px;
+  } 
+}
