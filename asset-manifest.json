@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hezkytech/static/css/main.6a4a16a0.css",
-    "main.js": "/hezkytech/static/js/main.521f49fc.js",
-    "static/media/image.jpg": "/hezkytech/static/media/image.421e3a1280c8219ecb7a.jpg",
-    "index.html": "/hezkytech/index.html",
-    "main.6a4a16a0.css.map": "/hezkytech/static/css/main.6a4a16a0.css.map",
-    "main.521f49fc.js.map": "/hezkytech/static/js/main.521f49fc.js.map"
+    "main.css": "/static/css/main.6a4a16a0.css",
+    "main.js": "/static/js/main.d9752b16.js",
+    "static/media/image.jpg": "/static/media/image.421e3a1280c8219ecb7a.jpg",
+    "index.html": "/index.html",
+    "main.6a4a16a0.css.map": "/static/css/main.6a4a16a0.css.map",
+    "main.d9752b16.js.map": "/static/js/main.d9752b16.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4a16a0.css",
-    "static/js/main.521f49fc.js"
+    "static/js/main.d9752b16.js"
   ]
 }
